@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
